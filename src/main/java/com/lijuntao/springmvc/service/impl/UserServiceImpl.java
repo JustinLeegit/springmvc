@@ -26,7 +26,7 @@ public class UserServiceImpl implements UserService{
     }
 
     public User getUserById(int id) {
-        // TODO Auto-generated method stub
+
         return usi.getUserById(id);
     }
 }

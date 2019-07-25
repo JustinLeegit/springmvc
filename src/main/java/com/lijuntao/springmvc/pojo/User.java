@@ -12,7 +12,7 @@ public class User {
     private int age;
     //如果没有无参构造器，则报错，无法装载pojo
     public User() {
-        // TODO Auto-generated constructor stub
+
     }
     public int getId() {
         return id;
